@@ -48,6 +48,10 @@ class _DiceScreenState extends State<DiceScreen> {
                 Expanded(
                   child: Image.asset('assets/dice$rightDice.jpg'),
                 ),
+
+
+
+                
               ],
             ),
             SizedBox(height: 20),
